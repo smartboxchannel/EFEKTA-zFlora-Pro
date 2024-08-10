@@ -6,7 +6,7 @@ Sprut.hub Wiki | Добавление кастомных шаблонов - http
 
 Продажа DIY Устройств - https://t.me/diydevmart
 
-![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/05.gif) 
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/01.gif) 
 
 ![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/01.png) 
 
