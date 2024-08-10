@@ -7,3 +7,5 @@
 Телеграм чат DIY Devices - https://t.me/diy_devices
 
 Продажа DIY Устройств - https://t.me/diydevmart
+
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/527ade492213085b3f40c.png) 
