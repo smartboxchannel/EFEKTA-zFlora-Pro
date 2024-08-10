@@ -7,13 +7,11 @@ Sprut.hub Wiki | Добавление кастомных шаблонов - http
 Продажа DIY Устройств - https://t.me/diydevmart
 
 
-![EFEKTA AQ Smart Monitor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-AQ-Smart-Monitor/main/Images/001.png) 
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/01.png) 
 
-![EFEKTA AQ Smart Monitor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-AQ-Smart-Monitor/main/Images/002.png) 
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/02.png) 
 
-![EFEKTA AQ Smart Monitor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-AQ-Smart-Monitor/main/Images/003.png) 
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/03.png) 
 
-![EFEKTA AQ Smart Monitor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-AQ-Smart-Monitor/main/Images/photo_2024-08-05_20-35-17.jpg)
-
-![EFEKTA AQ Smart Monitor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-AQ-Smart-Monitor/main/Images/photo_2024-08-05_20-35-04.jpg) 
+![EFEKTA zFlora Pro](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-zFlora-Pro/main/Images/04.png) 
 
