@@ -1,5 +1,5 @@
 # zflora_pro_max.py
-# Quirk for zFlora_Pro_Max (Plant watering sensor)
+# Quirk for zFlora_ProMax (Plant watering sensor)
 from typing import Final
 from enum import IntEnum
 
@@ -65,7 +65,7 @@ class TimeExt(Time, CustomCluster):
 
 
 (
-    QuirkBuilder(EFEKTA, "zFlora_Pro_Max")
+    QuirkBuilder(EFEKTA, "zFlora_ProMax")
     .replaces_endpoint(1, device_type=zha.DeviceType.SIMPLE_SENSOR)
     .replaces(Basic, endpoint_id=1)
     .replaces(PowerCfg, endpoint_id=1)
